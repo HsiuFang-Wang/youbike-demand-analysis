@@ -123,6 +123,27 @@ Python 爬蟲與資料分析分組專案｜第 02 組
 
 ---
 
+## 📊 Project Highlights
+
+### 1. Demand Patterns by Day & Time
+分析不同星期與時段的 YouBike 高需求分布。
+
+![Demand Patterns by Day and Time](01_time_heatmap.png)
+
+### 2. Weather & Demand Analysis
+整理天氣條件與 YouBike 需求之間的變化情形。
+
+![Weather and Demand Analysis](02_weather_analysis.png)
+
+### 3. Model Performance
+呈現團隊建立的 Logistic Regression 與 Random Forest 模型評估結果。
+
+![Model Performance](03_model_performance.png)
+
+> The machine learning models were developed as part of the group project. My primary role was data visualization, information organization, and presentation design.
+
+---
+
 ## 🔗 Portfolio
 
 More projects:
